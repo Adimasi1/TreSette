@@ -1,0 +1,29 @@
+# Build output
+target/
+bin/
+out/
+
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
