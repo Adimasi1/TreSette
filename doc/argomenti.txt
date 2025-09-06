@@ -1,0 +1,447 @@
+Argomento 1:
+- Introduzione al corso
+Obiettivi del corso
+  video lezione 1 HD - Introduzione al corso
+
+  slide lezione 1 - Introduzione al corso
+
+- Hello World!
+Un primo programma Java: Hello World!
+Confronto con altri linguaggi di programmazione
+Metodi di base per stampare
+Creazione ed esecuzione del programma mediante ambiente di sviluppo integrato
+  video lezione 2 HD - Hello World
+
+  slide lezione 2 - Hello World
+
+Argomento 2:
+- Tipi di dato fondamentali
+Tipi di dato
+Tipi di dato di base o primitivi
+Intervalli e dimensioni in memoria
+Variabili, dichiarazioni e assegnazioni
+Identificatori • Espressioni
+  video lezione 3 HD - Tipi di dato fondamentali
+
+  slide lezione 3 - Tipi di dato fondamentali
+
+- Conversioni di tipo
+Conversioni di tipo
+Caratteri e stringhe
+Booleani
+Operatori di confronto
+Consapevolezza del tipo di dato
+Conversione esplicita, cast esplicito e implicito
+ video lezione 4 HD - Conversioni di tipo
+
+  slide lezione 4 - Conversioni di tipo
+
+Argomento 3:
+- Introduzione a JRE, JDK ed Eclipse
+  video lezione 5 HD - Introduzione a JRE, JDK ed Eclipse
+
+- Concetti fondamentali di programmazione ad oggetti
+
+Classi e oggetti
+Campi e metodi
+Costruttori
+Variabili locali e campi
+  video lezione 6 HD - Concetti fondamentali di programmazione ad oggetti
+
+  slide lezione 6 - Concetti fondamentali di programmazione ad oggetti
+
+Argomento 4:
+- Incapsulamento ed inizializzazione di default
+Incapsulamento
+Modalità di accesso a campi e metodi
+Inizializzazione implicita dei campi
+  video lezione 7 HD - Incapsulamento ed inizializzazione di default
+
+  slide lezione 7 - Incapsulamento ed inizializzazione di default
+
+- La classe String
+
+La classe java.lang.String 
+Metodi per:
+manipolare le stringhe
+ottenere informazioni dalla stringa
+confrontare stringhe
+ecc.
+Esercizi con le stringhe
+  video lezione 8 HD - La classe String
+
+  slide lezione 8 - La classe String
+
+Argomento 5:
+- Riferimenti a oggetti, heap & stack, metodi statici
+• Riferimenti e oggetti
+
+• Anatomia della memoria: stack & heap
+
+• Campi statici
+
+• Metodi statici
+
+• Ancora sui package
+
+  video lezione 9 HD - Riferimenti a oggetti, heap & stack, metodi statici
+
+  slide lezione 9 - Riferimenti a oggetti, heap & stack, metodi statici
+
+- Strutture di controllo; costrutti iterativi
+
+• Strutture di controllo:
+
+if
+else
+Il problema dell’else sospeso
+Operatore di selezione ? 
+Istruzione switch*
+Costrutti iterativi: 
+while
+do…while
+for
+  video lezione 10 HD - Strutture di controllo; costrutti iterativi
+
+  slide lezione 10 - Strutture di controllo; costrutti iterativi
+
+*Aggiornamento:
+  switch (aggiornamento)
+
+Argomento 6:
+- Array
+• Gli array
+
+• Dichiarazione
+
+• Inizializzazione
+
+• Accesso agli elementi
+
+• Array a due dimensioni
+
+• Metodi con numero variabile di parametri
+
+  video lezione 11 HD - Array  
+
+  slide lezione 11 - Array
+
+- Costanti ed enumerazioni 
+
+• Metodi e campi statici
+
+• Enumerazioni
+
+  video lezione 12 HD - Costanti ed enumerazioni
+
+  slide lezione 12 - Costanti ed enumerazioni
+
+Argomento 7:
+- Ereditarietà I
+• Introduzione all'ereditarietà
+
+• Classi e metodi astratti
+
+• Le parole chiave this e super nei costruttori
+
+• Overloading e overriding
+
+  video lezione 13 HD - Ereditarietà I
+
+  slide lezione 13 - Ereditarietà I
+
+- Ereditarietà II
+• Modificatori di visibilità
+
+• Ereditarietà vs. composizione
+
+• Esempi ed esercizi
+
+  video lezione 14 HD - Ereditarietà II
+
+  slide lezione 14 - Ereditarietà II
+
+ 
+
+Argomento 8:
+- Polimorfismo
+• Polimorfismo
+
+• Esempi e casistiche
+
+• La parola chiave super per metodi e campi
+
+• Operatore instanceof
+
+• Downcasting e upcasting
+
+  video lezione 15 HD - Polimorfismo
+
+  slide lezione 15 - Polimorfismo
+
+- La classe Object
+• La classe Object
+
+• La classe ArrayList
+
+  video lezione 16 HD - La classe Object
+
+  slide lezione 16 - La classe Object
+
+ 
+
+Argomento 9:
+- Esercizi su ereditarietà e polimorfismo
+• Esercizi su ereditarietà e polimorfismo
+
+  video lezione 17 HD - Esercizi su ereditarietà e polimorfismo
+
+  slide lezione 17 - Esercizi su ereditarietà e polimorfismo
+
+- Introduzione ad interfacce ed eccezioni
+• La parola chiave final per classi e metodi
+
+• Introduzione a interfacce ed eccezioni
+
+• Esercizi
+
+  video lezione 18 HD - Introduzione ad interfacce ed eccezioni
+
+  slide lezione 18 - Introduzione ad interfacce ed eccezioni
+
+ 
+
+Argomento 10:
+- Interfacce
+• Che cos'è un'interfaccia?
+
+• Dichiarazione
+
+• Implementazione
+
+• Il contratto
+
+• Differenze con le classi astratte
+
+• Ereditarietà multipla
+
+• Interfacce notevoli
+
+• Callback mediante interfacce
+
+  video lezione 19 HD - Interfacce
+
+  slide lezione 19 - Interfacce
+
+- Classi interne
+• Classi annidate
+
+• Classi interne
+
+• Classi annidate statiche
+
+• Esercizi
+
+  video lezione 20 HD - Classi interne
+
+  slide lezione 20 - Classi interne
+
+Argomento 11:
+- Eccezioni
+• Le eccezioni
+
+• Vantaggi e svantaggi
+
+• Catturare le eccezioni
+
+• La politica catch or declare
+
+• Personalizzare le eccezioni
+
+• Esercizi
+
+  video lezione 21 HD - Eccezioni
+
+  slide lezione 21 - Eccezioni
+
+- Collections (1° parte)
+• Strutture dati in Java: le collection
+
+• Gerarchia delle Collection
+
+• Iterator
+
+• ArrayList e LinkedList* 
+
+• ListIterator
+
+• Insiemi
+
+  video lezione 22 HD - Collections I
+
+  slide lezione 22 - Collections I
+
+ 
+
+*Aggiornamento:
+  List.of (aggiornamento)
+
+Argomento 12:
+- Collections (2° parte)
+• Mappe 
+
+HashMap
+TreeMap
+LinkedHashMap
+• Chiavi e valori
+
+• Algoritmi su collezioni e array
+
+• Ordinamento
+
+Comparable e Comparator
+• Pile e code
+
+• Alberi
+
+  video lezione 23 HD - Collections II
+
+  slide lezione 23 - Collections II
+
+- Espressioni lambda
+• Metodi di default
+
+• Interfacce funzionali
+
+• Espressioni lambda
+
+ATTENZIONE SALTARE slide 17 e da 45 a 64
+
+  video lezione 32 HD - Espressioni Lambda
+
+  slide lezione 32 - Espressioni Lambda
+
+- Input & Output
+• Input e output in Java
+
+• Serializzazione e deserializzazione di oggetti
+
+  video lezione 24 HD - Input & Output
+
+  slide lezione 24 - Input & Output
+
+ 
+
+Argomento 13:
+- Ricorsione
+• La ricorsione
+
+• I record di attivazione
+
+• Esempi ed esercizi
+
+• Strutture dati ricorsive
+
+  video lezione 25 HD - Ricorsione
+
+  slide lezione 25 - Ricorsione
+
+- L'uguaglianza in Java
+• Mutua ricorsione
+
+• Ricorsione di coda
+
+• Uguaglianza in Java: 
+
+compareTo 
+equals 
+hashCode
+  video lezione 26 HD - L'uguaglianza in Java
+
+  slide lezione 26 - L'uguaglianza in Java
+
+Argomento 14:
+- Stream
+Optional
+Stream
+  video lezione online 1 - Stream I
+
+  video lezione online 2 - Stream II
+
+  video lezione online 3 - Stream III
+
+  SLIDE AGGIORNATE: PDF
+
+  slide Stream 
+
+Argomento 15:
+- Tipi Generici I
+• Introduzione ai tipi generici
+
+• Classi generiche
+
+• Generici e collezioni
+
+• Metodi generici
+
+• Problematiche
+
+  video lezione 27 HD - Tipi generici I
+
+  slide lezione 27 - Tipi generici I
+
+- Tipi Generici II
+• Jolly come tipi generici
+
+• Cancellazione del tipo
+
+• Parola chiave super nei generici
+
+• Overloading di metodi generici
+
+• Tipi raw
+
+  video lezione 28 HD - Tipi generici II
+
+  slide lezione 28 - Tipi generici II
+
+ 
+
+Argomento 16:
+- Design pattern I
+• Che cos'è un design pattern
+
+• Strategy pattern
+
+  video lezione 29 HD - Design pattern I
+
+  slide lezione 29 - Design pattern I
+ 
+- Design pattern II
+• Observer pattern
+
+• Factory pattern
+
+  video lezione 30 HD - Design pattern II
+
+  slide lezione 30 - Design pattern II
+
+- Design pattern III
+• Singleton pattern
+
+• Decorator pattern
+
+• Command/Callback pattern
+
+  video lezione 31 HD - Design pattern III
+
+  slide lezione 31 - Design pattern III
+
+- Design pattern IV
+• Builder pattern
+
+  builder pattern (aggiornamento)
+- pattern architetturali:
+ MVC; MVVM, MVP
+
+ slide su builder pattern (dalla 64) pdf
